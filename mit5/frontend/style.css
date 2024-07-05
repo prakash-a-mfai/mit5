@@ -1,0 +1,11 @@
+.container{
+ text-align: center;
+}
+table{
+    margin: auto;
+    width: 600px;
+    height: 200px;
+}
+button{
+    background-color:lightgreen;
+}
